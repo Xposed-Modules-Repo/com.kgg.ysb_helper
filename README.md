@@ -4,7 +4,7 @@
 
 # 更新日志
 
-2023.07.09&nbsp;&nbsp;&nbsp;&nbsp;v1.0.0&nbsp;&nbsp;&nbsp;&nbsp;适配钥匙宝4.3.3版本
+2023.07.09&nbsp;&nbsp;&nbsp;&nbsp;v1.0.1&nbsp;&nbsp;&nbsp;&nbsp;适配钥匙宝4.3.3版本
 
 2023.05.07&nbsp;&nbsp;&nbsp;&nbsp;v1.0.0&nbsp;&nbsp;&nbsp;&nbsp;首次发布
 
